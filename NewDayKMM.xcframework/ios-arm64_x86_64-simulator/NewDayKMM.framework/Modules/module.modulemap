@@ -1,0 +1,6 @@
+framework module NewDayKMM {
+    umbrella header "NewDayKMM.h"
+
+    export *
+    module * { export * }
+}
